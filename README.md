@@ -30,6 +30,7 @@
 * checkout main
 * pull origin main
 * checkout your second branch
+* apply your stash
 * rebase
 * now what???
 
