@@ -1,4 +1,4 @@
-#A Summary of Commonly Used Commands
+# A Summary of Commonly Used Commands
 There are hundreds of different Git commands, but to get started you only need to remember a handful of them. Here is a summary of the commands you’ll use most often:
 
 * `git init` initializes your local directory as a new git repository. You must run this before you can commit any of your work.

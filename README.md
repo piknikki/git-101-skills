@@ -37,3 +37,4 @@
 ## Other scenarios
 * What if you had CI/CD on this project, requiring passing builds/deploys on every PR and merge?
 * How would this be different based on whether you're using rebase or merge workflow?
+* See also [Moar Git](MORE.md)
