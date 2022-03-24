@@ -24,3 +24,7 @@
 * in your terminal, checkout main and pull down the repo
 * check your editor - you should see work from your branch
 * run through this with multiple teammates, multiple times, adding stuff as you go along (naming branches appropriately)
+
+## Other scenarios
+* What if you had CI/CD on this project, requiring passing builds/deploys on every PR and merge?
+* How would this be different based on whether you're using rebase or merge workflow?
