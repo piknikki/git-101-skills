@@ -34,8 +34,18 @@
 * rebase
 * now what???
 
+## GitHub treasure hunt
+* find branches
+* find pull requests (closed)
+* find commit hash for your initial commit
+* look at commit history and find the difference between pushing to main and pushing to a branch (and then merging it)
+
 
 ## Other scenarios
 * What if you had CI/CD on this project, requiring passing builds/deploys on every PR and merge?
 * How would this be different based on whether you're using rebase or merge workflow?
 * See also [Moar Git](MORE.md)
+
+### Other Git Stuffs
+Git platforms (GitKraken, etc.)
+
