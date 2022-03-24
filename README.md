@@ -1,7 +1,6 @@
 # Git 101 Skills Workshop
 
-
-## Instructions for solo practice
+## Instructions for practice
 * create a directory called git-101, cd into it and init your repo
 * go to GitHub and create a repo. Usually you want to name it the same thing as your local project
 * add the remote repo to your local repo and push up (rename main if you need to)
@@ -24,6 +23,16 @@
 * in your terminal, checkout main and pull down the repo
 * check your editor - you should see work from your branch
 * run through this with multiple teammates, multiple times, adding stuff as you go along (naming branches appropriately)
+
+* cut a new branch and do some stuff, add and commit -- but don't push
+* now cut a new branch from there
+* do some stuff and stash it
+* checkout main
+* pull origin main
+* checkout your second branch
+* rebase
+* now what???
+
 
 ## Other scenarios
 * What if you had CI/CD on this project, requiring passing builds/deploys on every PR and merge?
